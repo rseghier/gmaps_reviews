@@ -4,5 +4,6 @@ pandas
 requests
 streamlit
 streamlit-authenticator==0.1.5
-pickle
+pickle5
 pathlib 
+os-sys
