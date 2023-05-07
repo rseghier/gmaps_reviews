@@ -4,6 +4,5 @@ pandas
 requests
 streamlit
 streamlit-authenticator==0.1.5
-os
 pickle
 pathlib 
